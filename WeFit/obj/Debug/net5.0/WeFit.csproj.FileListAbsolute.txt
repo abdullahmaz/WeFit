@@ -402,3 +402,4 @@ C:\Users\abdullah\Downloads\WeFit\WeFit\obj\Debug\net5.0\refint\WeFit.dll
 C:\Users\abdullah\Downloads\WeFit\WeFit\obj\Debug\net5.0\WeFit.pdb
 C:\Users\abdullah\Downloads\WeFit\WeFit\obj\Debug\net5.0\WeFit.genruntimeconfig.cache
 C:\Users\abdullah\Downloads\WeFit\WeFit\obj\Debug\net5.0\ref\WeFit.dll
+c:\Users\abdullah\Downloads\WeFit\WeFit\obj\Debug\net5.0\WeFit.sourcelink.json
