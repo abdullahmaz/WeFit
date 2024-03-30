@@ -1,0 +1,9 @@
+C:\Users\abdullah\Downloads\FitnessTracker-master\FitnessTracker\obj\Debug\net8.0\FitnessTracker.csproj.AssemblyReference.cache
+C:\Users\abdullah\Downloads\FitnessTracker-master\FitnessTracker\obj\Debug\net8.0\FitnessTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah\Downloads\FitnessTracker-master\FitnessTracker\obj\Debug\net8.0\FitnessTracker.AssemblyInfoInputs.cache
+C:\Users\abdullah\Downloads\FitnessTracker-master\FitnessTracker\obj\Debug\net8.0\FitnessTracker.AssemblyInfo.cs
+C:\Users\abdullah\Downloads\FitnessTracker-master\FitnessTracker\obj\Debug\net8.0\FitnessTracker.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Downloads\FitnessTracker-master\FitnessTracker\obj\Debug\net8.0\FitnessTracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abdullah\Downloads\FitnessTracker-master\FitnessTracker\obj\Debug\net8.0\FitnessTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abdullah\Downloads\FitnessTracker-master\FitnessTracker\obj\Debug\net8.0\FitnessTracker.RazorAssemblyInfo.cache
+C:\Users\abdullah\Downloads\FitnessTracker-master\FitnessTracker\obj\Debug\net8.0\FitnessTracker.RazorAssemblyInfo.cs
