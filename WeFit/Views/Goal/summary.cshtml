@@ -5,14 +5,14 @@
 }
 
 <div>
-    <h2 class="d-inline">My Goals</h2>
+    <h2 class="d-inline text-light">My Goals</h2>
     <a asp-controller="Goal" asp-action="AddGoal" class="font-weight-bold ml-1" style="vertical-align:text-bottom">+Add Goal</a>
 </div>
 
 <div class="row">
     @foreach (Goal goal in Model)
     {
-        <div class="col-3 mt-3">
+        <div class="col-3 mt-3 text-light">
             <div class="card">
                 <div class="card-header">
                     <h4>@goal.Activity</h4>
