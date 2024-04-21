@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Semester_4\\Fund of SE\\New folder\\WeFit\\WeFit.csproj": {}
+    "C:\\Users\\abdullah\\Documents\\Projects\\WeFit\\WeFit\\WeFit.csproj": {}
   },
   "projects": {
-    "A:\\Semester_4\\Fund of SE\\New folder\\WeFit\\WeFit.csproj": {
+    "C:\\Users\\abdullah\\Documents\\Projects\\WeFit\\WeFit\\WeFit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Semester_4\\Fund of SE\\New folder\\WeFit\\WeFit.csproj",
+        "projectUniqueName": "C:\\Users\\abdullah\\Documents\\Projects\\WeFit\\WeFit\\WeFit.csproj",
         "projectName": "WeFit",
-        "projectPath": "A:\\Semester_4\\Fund of SE\\New folder\\WeFit\\WeFit.csproj",
-        "packagesPath": "C:\\Users\\haide\\.nuget\\packages\\",
-        "outputPath": "A:\\Semester_4\\Fund of SE\\New folder\\WeFit\\obj\\",
+        "projectPath": "C:\\Users\\abdullah\\Documents\\Projects\\WeFit\\WeFit\\WeFit.csproj",
+        "packagesPath": "C:\\Users\\abdullah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abdullah\\Documents\\Projects\\WeFit\\WeFit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\haide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abdullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

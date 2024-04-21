@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeFit")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0f9628f040fe4f7d47f7578ab13e5104e2839c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad2d5dec4411b02189f02da3512a247f47778fe8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeFit.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
